@@ -1,5 +1,5 @@
 # Bubble Sort With Sonic Pi
-# Link to tutorial: https://www.earthtoabigail.com/blog/bubble-sort-ruby-sonic-pi
+# Link to tutorial: https://www.earthtoabigail.com/blog/bubble-sort-ruby-sonicpi
 
 unsorted_arr = [81, 79, 69, 59, 55, 71, 83, 52, 64, 74, 76, 62, 57, 67, 86, 88]
 use_bpm 90
