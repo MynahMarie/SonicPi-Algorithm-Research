@@ -46,7 +46,6 @@ def bubble_sort array
         use_synth :dsaw # Gives a base frequency (take lowest value of array)
         play 52, amp: 0.5, attack: 2, sustain: 6, decay: 2, release: 4, cutoff: 60
         sample :bd_tek # Tracking when we are entering the loop
-        sleep 1
       end
 
       in_thread do # Gives a sense of how many iterations we've done so far
